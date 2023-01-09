@@ -22,7 +22,7 @@ This is the second version of the case with a hotswappable 18650, strap slots bu
 
 
 ### Components
-
+In the comming days there will be two versions of the pcb including a bmi160 suporting pcb and a imu6050 pcb. 
     
 - [TP4056](https://www.amazon.com/HiLetgo-Lithium-Battery-Charging-Protect/dp/B00LTQU2RK/ref=sr_1_3?crid=31BCDZYQGA5IU&keywords=TP4056&qid=1643591253&sprefix=tp4056%2Caps%2C124&sr=8-3)
 - [Wemos D1 Mini](https://www.amazon.com/Organizer-ESP8266-Internet-Development-Compatible/dp/B081PX9YFV/ref=sr_1_3?crid=2FMF3NVYGOSPK&keywords=wemos+d1+mini&qid=1643591309&sprefix=wemos+d1+mini%2Caps%2C136&sr=8-3)
@@ -41,6 +41,7 @@ This is the second version of the case with a hotswappable 18650, strap slots bu
 
 
 ### Case
+Still in work but the tracker will work even without the case. 
 
 
 Stls and Fs3d files will be avilable soon!
