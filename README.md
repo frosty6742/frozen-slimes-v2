@@ -53,6 +53,7 @@ This PCB lets every component be soldered on without any extra wires. This inclu
 ![pcbSilkScreen](https://user-images.githubusercontent.com/98719680/211371690-bf946325-b18b-4308-bf30-9046af7a4c43.png)
 ![pcbPicture2](https://user-images.githubusercontent.com/98719680/211371842-b0f14e70-39f3-4231-82fa-b888439413b8.png)
 ![pcbPicture](https://user-images.githubusercontent.com/98719680/211371853-0ef9c825-9637-4514-93f3-592e053a4c90.png)
+![render1](https://user-images.githubusercontent.com/98719680/211372485-b8ea5980-bbf8-4683-aa47-15f9e330cfbe.png)
 
 
 
