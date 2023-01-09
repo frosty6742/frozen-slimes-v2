@@ -29,6 +29,7 @@ This is the second version of the case with a hotswappable 18650, strap slots bu
 - [2in straps] Made these from elastic and velcro
 - [IMU docs](https://docs.slimevr.dev/diy/components-guide.html)
     - [MPU6050](https://www.amazon.com/MPU-6050-Accelerometer-Gyroscope-Converter-Compatible/dp/B08TH9NH55/ref=sr_1_6?crid=1W65V3QJ27XN&keywords=mpu+6050&qid=1643591376&sprefix=mpu+6050%2Caps%2C136&sr=8-6)  
+    - [BMI160]
 - [Switch](https://docs.slimevr.dev/diy/components-guide.htmll)
     - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
 - [Battery](https://docs.slimevr.dev/diy/components-guide.html) (*804040 is what the docs suggest, I used 18650s as they will last for a solid 30 hours, I will have cases for each version eventualy*)
