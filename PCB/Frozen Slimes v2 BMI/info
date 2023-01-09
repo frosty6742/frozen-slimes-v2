@@ -1,0 +1,189 @@
+{
+  "uuid": "488dd08aefcf92dc7077d03364b4a501",
+  "path": "Offline/Frozen%20Slimes%20v2%20BMI",
+  "name": "Frozen Slimes v2 BMI",
+  "content": "",
+  "created_at": "2023-01-04 12:10:39",
+  "updated_at": "2023-01-09 12:00:39",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "3ad3bf6175f4a545775a240366157851",
+      "title": "BMI160",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2858c7aedc1844868f2feaf8d70c1e82": 1,
+        "1362d432571641f181996d3691f735a8": 1,
+        "5b14fe16c5674a83a115a662433da09d": 3,
+        "4934c15cb75a4c27bb4f83e456d15be7": 2,
+        "90dd46b3ba2a4353b9092fa2cfa6b23d": 1,
+        "af80b2cb046c4f9c964e4bd0d4e435e8": 1,
+        "f942f8e244294bb7b1d0d99120824d33": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BH-18650-B1BA002",
+          1,
+          "BATTERY-SMD_18650-1S-L77.1-W20.7-1",
+          "BATT1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2988620",
+            "BOM_Manufacturer": "MYOUNG(美阳)",
+            "BOM_Manufacturer Part": "BH-18650-B1BA002",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "105d549b433940fabcf03ce5f5faeff8",
+            "uuid": "1362d432571641f181996d3691f735a8"
+          }
+        ],
+        [
+          "1N5817-T",
+          2,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-FD",
+          "D3,D4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C507852",
+            "BOM_Manufacturer": "DIODES(美台)",
+            "BOM_Manufacturer Part": "1N5817-T",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "f9b6c4acbda64b569861a21e133c291c",
+            "uuid": "4934c15cb75a4c27bb4f83e456d15be7"
+          }
+        ],
+        [
+          "GY-BMI160 ADAL",
+          1,
+          "GY-BMI160 ADAL",
+          "S1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Banggood",
+            "puuid": "2fe7a09a06c649aeb44098d95215bab8",
+            "uuid": "af80b2cb046c4f9c964e4bd0d4e435e8"
+          }
+        ],
+        [
+          "Switch connector",
+          1,
+          "2XSOLDERPAD",
+          "SWITCH1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "85b07549fcd14d1ca9d99302c2762b2d",
+            "uuid": "5b14fe16c5674a83a115a662433da09d"
+          }
+        ],
+        [
+          "TP4056",
+          1,
+          "TP4056",
+          "U5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e4ea8d630f144875bab652bc29d97572",
+            "uuid": "2858c7aedc1844868f2feaf8d70c1e82"
+          }
+        ],
+        [
+          ".",
+          2,
+          "2XSOLDERPAD",
+          "U8,U9",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "85b07549fcd14d1ca9d99302c2762b2d",
+            "uuid": "5b14fe16c5674a83a115a662433da09d"
+          }
+        ],
+        [
+          "R180K",
+          1,
+          "ER RESISTOR 180K/0.6 W",
+          "U10",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "f440a59b3178469cb3299e23a670adbc",
+            "uuid": "90dd46b3ba2a4353b9092fa2cfa6b23d"
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U11",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2837266",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "562d77a546a24e4f83c78207be689c00",
+            "uuid": "f942f8e244294bb7b1d0d99120824d33"
+          }
+        ]
+      ],
+      "updateTime": 1673294416,
+      "createTime": 1673287506,
+      "histories": [],
+      "created_at": "2023-01-09 10:05:06",
+      "updated_at": "2023-01-09 12:00:16"
+    },
+    {
+      "uuid": "2cf4a9f9e0bdc6ffbe7ea063b8932aa3",
+      "puuid": "488dd08aefcf92dc7077d03364b4a501",
+      "title": "PCB_Frozen Slimes v2_3",
+      "filename": "PCB_Frozen Slimes v2_3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "105d549b433940fabcf03ce5f5faeff8": 1,
+        "f9b6c4acbda64b569861a21e133c291c": 2,
+        "2fe7a09a06c649aeb44098d95215bab8": 1,
+        "85b07549fcd14d1ca9d99302c2762b2d": 3,
+        "562d77a546a24e4f83c78207be689c00": 1,
+        "e4ea8d630f144875bab652bc29d97572": 1,
+        "f440a59b3178469cb3299e23a670adbc": 1
+      },
+      "BOM": [],
+      "updateTime": 1673112655,
+      "createTime": 1673033482,
+      "histories": [],
+      "created_at": "2023-01-06 11:31:22",
+      "updated_at": "2023-01-07 09:30:55"
+    }
+  ],
+  "sort": [
+    "3ad3bf6175f4a545775a240366157851",
+    "bc3e10b6b71a971519d2f2fa22ca8da5"
+  ],
+  "title": "Frozen Slimes v2 BMI",
+  "foldername": "Frozen Slimes v2 BMI",
+  "schfilename": "Frozen Slimes v2 BMI.json",
+  "schfilemtime": 1673294416223
+}
