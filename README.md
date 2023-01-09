@@ -6,7 +6,7 @@
 
 This project will currently be using a Wemo D1 mini, mpu6050 or bmi160, and a TP4056 charger. On my personal slimes I wanted to use a 18650 batteries due to the longer battery life and how easy they are to get. 
 
-This is the second version of the case with a hotswappable 18650, strap slots build into the pcb and a much improvedpcb design. 
+This is the second version of the case with a hotswappable 18650, strap slots build into the pcb and a much improved pcb design. 
 
 
 [Offical Component Guide](https://docs.slimevr.dev/diy/components-guide.html)
