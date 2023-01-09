@@ -32,12 +32,11 @@ In the comming days there will be two versions of the pcb including a bmi160 sup
     - [BMI160]
 - [Switch](https://docs.slimevr.dev/diy/components-guide.htmll)
     - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
-- [Battery](https://docs.slimevr.dev/diy/components-guide.html) (*804040 is what the docs suggest, I used 18650s as they will last for a solid 30 hours, I will have cases for each version eventualy*)
+- [Battery](https://docs.slimevr.dev/diy/components-guide.html)
     - [18650](https://www.amazon.com/s?k=18650&crid=2H65KICLJGU4U&sprefix=18650%2Caps%2C301&ref=nb_sb_noss_1)
 - [1n5817 Diode](https://www.amazon.com/100-Pieces-1N5817-Schottky-Rectifier/dp/B079KDQQPD/ref=sr_1_5?crid=1EPLYISD4R4G3&keywords=1n5817+Diode&qid=1659032765&sprefix=1n5817+diode%2Caps%2C130&sr=8-5)
 - [180k Resistor](https://www.amazon.com/EDGELEC-Resistor-Tolerance-Resistance-Optional/dp/B07HDFCNXB/ref=sr_1_3?crid=9MPFJ93KJT6X&keywords=180k+resistor&qid=1659032821&sprefix=180k+%2Caps%2C129&sr=8-3)
-- [M3 Insert](https://www.amazon.com/initeq-M3-0-5-Threaded-Inserts-Printing/dp/B077CL322T/ref=sxin_16_ac_d_mf_brs?ac_md=6-2-aW5pdGVx-ac_d_mf_brs_brs&content-id=amzn1.sym.715b40e5-7b73-447b-bbb7-382000b19785%3Aamzn1.sym.715b40e5-7b73-447b-bbb7-382000b19785&crid=3D6LG19044RU7&cv_ct_cx=m3+insert&keywords=m3+insert&pd_rd_i=B077CL322T&pd_rd_r=6a9928bf-8120-480c-b6e6-ac4a3efb5da3&pd_rd_w=Ci2YY&pd_rd_wg=EGaoL&pf_rd_p=715b40e5-7b73-447b-bbb7-382000b19785&pf_rd_r=BPZY01PVZZCHQVTXDYB9&psc=1&qid=1659033175&sprefix=m3+insert%2Caps%2C151&sr=1-3-dd96d2aa-78c0-4648-bd3e-11643d087866)
-- [M3 hardware](https://www.amazon.com/DYWISHKEY-Pieces-Socket-Screws-Wrench/dp/B07VRC5RJ8/ref=sr_1_13?crid=RON51NO1L8L7&keywords=m3+hardware&qid=1659033217&s=hi&sprefix=m3+hardware%2Ctools%2C115&sr=1-13)
+
 
 
 ### Case
