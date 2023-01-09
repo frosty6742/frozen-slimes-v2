@@ -52,7 +52,7 @@ This PCB lets every component be soldered on without any extra wires. This inclu
 
 
 
-The gerber file for this is labled ``` frozen slime gerber file v1 ```
+The gerber file for this is labled ``` Gerber_PCB_Frozen Slimes v2_3_2023-01-06.zip ```
 
 To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerber file and select quanity and color and order. It should autoselect all the other correct options when you upload the gerber file. 
 
