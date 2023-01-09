@@ -50,6 +50,10 @@ Stls and Fs3d files will be avilable soon!
 ### PCB 
 This PCB lets every component be soldered on without any extra wires. This includes the diodes and resistor for battery sense and protected charging.  
 
+![pcbSilkScreen](https://user-images.githubusercontent.com/98719680/211371690-bf946325-b18b-4308-bf30-9046af7a4c43.png)
+![pcbPicture2](https://user-images.githubusercontent.com/98719680/211371842-b0f14e70-39f3-4231-82fa-b888439413b8.png)
+![pcbPicture](https://user-images.githubusercontent.com/98719680/211371853-0ef9c825-9637-4514-93f3-592e053a4c90.png)
+
 
 
 The gerber file for this is labled ``` Gerber_PCB_Frozen Slimes v2_3_2023-01-06.zip ```
