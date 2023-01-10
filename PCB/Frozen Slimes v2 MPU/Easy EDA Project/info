@@ -4,7 +4,7 @@
   "name": "Frozen Slimes v2 MPU",
   "content": "",
   "created_at": "2023-01-09 11:53:33",
-  "updated_at": "2023-01-09 12:49:16",
+  "updated_at": "2023-01-10 10:50:58",
   "stick": "",
   "documents": [
     {
@@ -171,11 +171,11 @@
         "562d77a546a24e4f83c78207be689c00": 1
       },
       "BOM": [],
-      "updateTime": 1673297356,
+      "updateTime": 1673376658,
       "createTime": 1673294461,
       "histories": [],
       "created_at": "2023-01-09 12:01:01",
-      "updated_at": "2023-01-09 12:49:16"
+      "updated_at": "2023-01-10 10:50:58"
     }
   ],
   "sort": [],
