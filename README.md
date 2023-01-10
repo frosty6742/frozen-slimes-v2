@@ -21,9 +21,7 @@ This is the second version of the case with a hotswappable 18650, strap slots bu
 - [Links](#Links)
 
 
-### Components
-In the comming days there will be two versions of the pcb including a bmi160 suporting pcb and a imu6050 pcb. 
-    
+### Components   
 - [TP4056](https://www.amazon.com/HiLetgo-Lithium-Battery-Charging-Protect/dp/B00LTQU2RK/ref=sr_1_3?crid=31BCDZYQGA5IU&keywords=TP4056&qid=1643591253&sprefix=tp4056%2Caps%2C124&sr=8-3)
 - [Wemos D1 Mini](https://www.amazon.com/Organizer-ESP8266-Internet-Development-Compatible/dp/B081PX9YFV/ref=sr_1_3?crid=2FMF3NVYGOSPK&keywords=wemos+d1+mini&qid=1643591309&sprefix=wemos+d1+mini%2Caps%2C136&sr=8-3)
 - [2in straps] Made these from elastic and velcro
@@ -50,12 +48,8 @@ Stls and Fs3d files will be avilable soon!
 ### PCB 
 This PCB lets every component be soldered on without any extra wires. This includes the diodes and resistor for battery sense and protected charging.  
 
-![pcbSilkScreen](https://user-images.githubusercontent.com/98719680/211371690-bf946325-b18b-4308-bf30-9046af7a4c43.png)
-![pcbPicture2](https://user-images.githubusercontent.com/98719680/211371842-b0f14e70-39f3-4231-82fa-b888439413b8.png)
-![pcbPicture](https://user-images.githubusercontent.com/98719680/211371853-0ef9c825-9637-4514-93f3-592e053a4c90.png)
-![Screenshot 2023-01-09 094550](https://user-images.githubusercontent.com/98719680/211373308-3e9e5bb4-e7ea-43e8-be28-b7c381eb9edd.png)
 
-
+There are two options for the pcb, one supports the bmi160 and the other supports the mpu6050. Make sure you download the correct one. 
 
 The gerber file for this is labled ``` Gerber_PCB_Frozen Slimes v2_3_2023-01-06.zip ```
 
@@ -64,6 +58,10 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 
 *if you want to buy pcb packs, fully assembled pcbs or even whole trackers dm me*
 
+![pcbSilkScreen](https://user-images.githubusercontent.com/98719680/211371690-bf946325-b18b-4308-bf30-9046af7a4c43.png)
+![pcbPicture2](https://user-images.githubusercontent.com/98719680/211371842-b0f14e70-39f3-4231-82fa-b888439413b8.png)
+![pcbPicture](https://user-images.githubusercontent.com/98719680/211371853-0ef9c825-9637-4514-93f3-592e053a4c90.png)
+![Screenshot 2023-01-09 094550](https://user-images.githubusercontent.com/98719680/211373308-3e9e5bb4-e7ea-43e8-be28-b7c381eb9edd.png)
 
 ### Printing 
 Tips
