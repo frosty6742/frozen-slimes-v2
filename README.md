@@ -1,6 +1,6 @@
 # Frozen Slimes V2
 
-### Contact: lynxo#7417
+### Contact: artemis#8615
 
 ## Check out the discord: https://discord.gg/vhHEsKjWGV
 
