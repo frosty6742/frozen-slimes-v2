@@ -43,6 +43,9 @@ Still in work but the tracker will work even without the case.
 
 Stls and Fs3d files will be avilable soon!
 
+If you want a case around the extension bmis check out whitneys artcturus cases and extensions: 
+[Arcturus Cases](https://github.com/Lixulia/Arcturus)
+
 
 
 ### PCB 
