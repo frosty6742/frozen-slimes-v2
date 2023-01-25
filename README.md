@@ -4,9 +4,16 @@
 
 ## Check out the discord: https://discord.gg/vhHEsKjWGV
 
-This project will currently be using a Wemo D1 mini, mpu6050 or bmi160, and a TP4056 charger. On my personal slimes I wanted to use a 18650 batteries due to the longer battery life and how easy they are to get. 
+This project will currently be using a Wemo D1 mini, mpu6050, bmi160 or bno085s, and a TP4056 charger. On my personal slimes I wanted to use a 18650 batteries due to the longer battery life and how easy they are to get. 
 
 This is the second version of the case with a hotswappable 18650, strap slots build into the pcb and a much improved pcb design. 
+
+This will now also support mpu6050s, bmis160s, and BNO085s all on one pcb with toggles. 
+
+Tested
+mpu6050 = no 
+bmi160 = no
+BNO085s = no
 
 
 [Offical Component Guide](https://docs.slimevr.dev/diy/components-guide.html)
