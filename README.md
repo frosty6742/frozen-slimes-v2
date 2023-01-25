@@ -11,12 +11,9 @@ This is the second version of the case with a hotswappable 18650, strap slots bu
 This will now also support mpu6050s, bmis160s, and BNO085s all on one pcb with toggles. 
 
 Tested:
-
-mpu6050 = no 
-
-bmi160 = no
-
-BNO085s = no
+- mpu6050 = no 
+- bmi160 = no
+- BNO085s = no
 
 
 
