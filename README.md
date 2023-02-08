@@ -12,6 +12,11 @@ This will now also support mpu6050s, bmis160s, and BNO085s all on one pcb with t
 
 Tested:
 - mpu6050 = no 
+- bmi160 = yes
+- BNO085s = no
+
+Tested Extensions:
+- mpu6050 = no 
 - bmi160 = no
 - BNO085s = no
 
@@ -57,16 +62,12 @@ If you want a case around the extension bmis check out whitneys artcturus cases 
 
 
 ### PCB 
-##DO NOT ORDER PCBS YET, THIS VERSION DOES NOT WORK
 
-This PCB lets every component be soldered on without any extra wires. This includes the diodes and resistor for battery sense and protected charging.  
+##Check above for tested and supported mpus
 
+This PCB lets every component be soldered on without any extra wires. This includes the diodes and resistor for battery sense and protected charging. 
 
-There are two options for the pcb, one supports the bmi160 and the other supports the mpu6050. Make sure you download the correct one. 
-
-The gerber file for this is labled ``` Gerber_PCB_Frozen Slimes v2_3_2023-01-06.zip ```
-
-To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerber file and select quanity and color and order. It should autoselect all the other correct options when you upload the gerber file. 
+To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerber file zip file and select quanity and color and order. It should autoselect all the other correct options when you upload the gerber file. 
 
 
 *if you want to buy pcb packs, fully assembled pcbs or even whole trackers dm me*
@@ -77,8 +78,6 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 ![Screenshot 2023-01-09 094550](https://user-images.githubusercontent.com/98719680/211373308-3e9e5bb4-e7ea-43e8-be28-b7c381eb9edd.png)
 
 ### Printing 
-Tips
-- Smaller layer height will make the prints come out higher quality.  
 
 ### Assembly 
 Steps 
@@ -90,6 +89,7 @@ Steps
 
 - [ ] Add 180K resitor and diodes in the same orientation as the picture 
 
+- [ ] Check connections with multimeter for contunity 
 
 - [ ] Feel free to reach out to me with any questions 
 
