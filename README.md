@@ -17,7 +17,7 @@ Tested:
 
 Tested Extensions:
 - mpu6050 = no 
-- bmi160 = no
+- bmi160 = yes
 - BNO085s = no
 
 
@@ -47,6 +47,8 @@ Tested Extensions:
     - [18650](https://www.amazon.com/s?k=18650&crid=2H65KICLJGU4U&sprefix=18650%2Caps%2C301&ref=nb_sb_noss_1)
 - [1n5817 Diode](https://www.amazon.com/100-Pieces-1N5817-Schottky-Rectifier/dp/B079KDQQPD/ref=sr_1_5?crid=1EPLYISD4R4G3&keywords=1n5817+Diode&qid=1659032765&sprefix=1n5817+diode%2Caps%2C130&sr=8-5)
 - [180k Resistor](https://www.amazon.com/EDGELEC-Resistor-Tolerance-Resistance-Optional/dp/B07HDFCNXB/ref=sr_1_3?crid=9MPFJ93KJT6X&keywords=180k+resistor&qid=1659032821&sprefix=180k+%2Caps%2C129&sr=8-3)
+- [18650 Battery Solderable Holder]
+- 
 
 
 
@@ -72,10 +74,7 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 
 *if you want to buy pcb packs, fully assembled pcbs or even whole trackers dm me*
 
-![pcbSilkScreen](https://user-images.githubusercontent.com/98719680/211371690-bf946325-b18b-4308-bf30-9046af7a4c43.png)
-![pcbPicture2](https://user-images.githubusercontent.com/98719680/211371842-b0f14e70-39f3-4231-82fa-b888439413b8.png)
-![pcbPicture](https://user-images.githubusercontent.com/98719680/211371853-0ef9c825-9637-4514-93f3-592e053a4c90.png)
-![Screenshot 2023-01-09 094550](https://user-images.githubusercontent.com/98719680/211373308-3e9e5bb4-e7ea-43e8-be28-b7c381eb9edd.png)
+
 
 ### Printing 
 
