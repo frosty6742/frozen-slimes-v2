@@ -77,7 +77,7 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 <img src="https://user-images.githubusercontent.com/98719680/218297952-111f2c94-485c-4ddd-be9c-3e330d8ab26a.png" alt="PCB" width="600" height="400" /> 
 
 <img src="https://user-images.githubusercontent.com/98719680/218297979-55a77603-aad7-4cce-9bf4-fe41926c8a91.png" alt="PCB" width="400" height="500" /> 
-<img src="https://user-images.githubusercontent.com/98719680/218298324-48e10c45-a100-48a4-9d4f-04c430d91090.png" alt="PCB" width="400" height="500" /> 
+<img src="https://user-images.githubusercontent.com/98719680/218298324-48e10c45-a100-48a4-9d4f-04c430d91090.png" alt="PCB" width="600" height="400" /> 
 
 
 ![Screenshot 2023-02-10 085738](https://user-images.githubusercontent.com/98719680/218297994-ef9c4b50-9aa8-4b4f-b1b4-7055ba54c666.png)
