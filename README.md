@@ -74,7 +74,7 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 
 *if you want to buy pcb packs, fully assembled pcbs or even whole trackers dm me*
 
-<img src="https://user-images.githubusercontent.com/98719680/218297952-111f2c94-485c-4ddd-be9c-3e330d8ab26a.png" alt="PCB" width="150" height="100" /> 
+<img src="https://user-images.githubusercontent.com/98719680/218297952-111f2c94-485c-4ddd-be9c-3e330d8ab26a.png" alt="PCB" width="300" height="200" /> 
 ![20230212_062153031_iOS-min](https://user-images.githubusercontent.com/98719680/218297952-111f2c94-485c-4ddd-be9c-3e330d8ab26a.png)
 ![20230212_062336631_iOS](https://user-images.githubusercontent.com/98719680/218297979-55a77603-aad7-4cce-9bf4-fe41926c8a91.png)
 
