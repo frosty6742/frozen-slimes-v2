@@ -111,6 +111,7 @@ Steps
 
 BMI Specific Instructions:
 Use this online [firmware flasher](https://slimevr-firmware.bscotch.ca/) with this fork "0forks/v3dev-bmm".
+
 Orientation: 
 ![image](https://user-images.githubusercontent.com/98719680/221204855-9bce6008-605c-4c25-83e0-810afc768479.png)
 
