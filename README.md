@@ -52,10 +52,12 @@ Tested Extensions:
 
 
 ### Case
-Still in work but the tracker will work even without the case. 
+Still in work but the tracker will work even without the case.
+
+Live updates of case CAD [here](https://a360.co/42u5nMa).
 
 
-Stls and Fs3d files will be avilable soon!
+
 
 If you want a case around the extension bmis check out whitneys artcturus cases and extensions: 
 [Arcturus Cases](https://github.com/Lixulia/Arcturus)
