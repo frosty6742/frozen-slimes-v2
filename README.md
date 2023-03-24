@@ -56,7 +56,7 @@ Still in work but the tracker will work even without the case.
 
 Live updates of case CAD [here](https://a360.co/42u5nMa).
 
-<img src="https://user-images.githubusercontent.com/98719680/227601854-59f1a4b9-e775-4e03-859e-9156e86dac59.png" alt="PCB" width="400" height="500" />
+<img src="https://user-images.githubusercontent.com/98719680/227601854-59f1a4b9-e775-4e03-859e-9156e86dac59.png" alt="PCB" width="500" height="400" />
 
 
 If you want a case around the extension bmis check out whitneys artcturus cases and extensions: 
