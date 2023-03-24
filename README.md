@@ -130,3 +130,16 @@ Resources:
 
 
 
+
+
+
+
+
+### Community Builds
+I love seeing everyone building and using my pcbs, send in your photos if you want them featured!
+
+![image](https://user-images.githubusercontent.com/98719680/227594965-319fff3d-ec7c-4dd1-b06a-6c97975d8db4.png)
+
+![image](https://user-images.githubusercontent.com/98719680/227595175-0b3c58bc-bebe-40f4-a213-303ace0f15fe.png)
+
+
