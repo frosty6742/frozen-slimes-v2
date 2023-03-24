@@ -86,6 +86,8 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 
 
 ### Printing 
+![image](https://user-images.githubusercontent.com/98719680/227603217-12ec5b41-bc10-43a8-856b-a48b9d3375ae.png)
+
 
 ### Assembly 
 Steps 
