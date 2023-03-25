@@ -145,6 +145,7 @@ Resources:
 ### Community Builds
 I love seeing everyone building and using my pcbs, send in your photos if you want them featured!
 
+![227595175-0b3c58bc-bebe-40f4-a213-303ace0f15fe](https://user-images.githubusercontent.com/98719680/227734562-431fad07-ec83-4c5a-b0dc-b85b5ef90da1.png)
 
 ![Screenshot 2023-03-25 110515](https://user-images.githubusercontent.com/98719680/227734529-8239390f-cc73-430a-8573-4deac898a3bc.png)
 
