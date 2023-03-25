@@ -56,7 +56,8 @@ Still in work but the tracker will work even without the case.
 
 Live updates of case CAD [here](https://a360.co/42u5nMa).
 
-<img src="https://user-images.githubusercontent.com/98719680/227601854-59f1a4b9-e775-4e03-859e-9156e86dac59.png" alt="PCB" width="600" height="400" />
+
+<img src="https://user-images.githubusercontent.com/98719680/227734265-6dffa7c5-9c2f-498a-8c37-c5e9e4d3c53d.png" alt="PCB" width="600" height="400" />
 
 
 If you want a case around the extension bmis check out whitneys artcturus cases and extensions: 
@@ -75,19 +76,22 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 
 *if you want to buy pcb packs, fully assembled pcbs or even whole trackers dm me*
 
-<img src="https://user-images.githubusercontent.com/98719680/218297952-111f2c94-485c-4ddd-be9c-3e330d8ab26a.png" alt="PCB" width="600" height="400" /> 
-
-<img src="https://user-images.githubusercontent.com/98719680/218297979-55a77603-aad7-4cce-9bf4-fe41926c8a91.png" alt="PCB" width="400" height="500" /> 
-<img src="https://user-images.githubusercontent.com/98719680/218298324-48e10c45-a100-48a4-9d4f-04c430d91090.png" alt="PCB" width="600" height="400" /> 
 
 
-![Screenshot 2023-02-10 085738](https://user-images.githubusercontent.com/98719680/218297994-ef9c4b50-9aa8-4b4f-b1b4-7055ba54c666.png)
+<img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/20230212_062153031_iOS.png" alt="PCB" width="600" height="400" /> 
+
+<img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/20230212_062336631_iOS.png" alt="PCB" width="400" height="500" /> 
+
+<img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/20230212_065153234_iOS.png" alt="PCB" width="600" height="400" /> 
+
+
+![Screenshot 2023-02-10 085738](https://user-images.githubusercontent.com/98719680/227734494-7778ed71-9f84-4e93-b037-b169e9d53451.png)
 
 
 
 ### Printing 
-![image](https://user-images.githubusercontent.com/98719680/227603217-12ec5b41-bc10-43a8-856b-a48b9d3375ae.png)
 
+![227603217-12ec5b41-bc10-43a8-856b-a48b9d3375ae](https://user-images.githubusercontent.com/98719680/227734497-a1913c7c-93c8-40bc-b744-7558b1a9abad.png)
 
 ### Assembly 
 Steps 
@@ -117,7 +121,8 @@ BMI Specific Instructions:
 
 - [ ] Orientation: 
 
-![image](https://user-images.githubusercontent.com/98719680/221204855-9bce6008-605c-4c25-83e0-810afc768479.png)
+![221204855-9bce6008-605c-4c25-83e0-810afc768479](https://user-images.githubusercontent.com/98719680/227734508-38e85ab7-38b9-43e7-b7cb-f7d4d2efbc29.png)
+
 
 - [ ] [Calibrate](https://github.com/SlimeVR/SlimeVR-Tracker-ESP/tree/beta/bmi-improvements#bmi160) bmis for first use
 
@@ -140,8 +145,9 @@ Resources:
 ### Community Builds
 I love seeing everyone building and using my pcbs, send in your photos if you want them featured!
 
-![image](https://user-images.githubusercontent.com/98719680/227594965-319fff3d-ec7c-4dd1-b06a-6c97975d8db4.png)
 
-![image](https://user-images.githubusercontent.com/98719680/227595175-0b3c58bc-bebe-40f4-a213-303ace0f15fe.png)
+![Screenshot 2023-03-25 110515](https://user-images.githubusercontent.com/98719680/227734529-8239390f-cc73-430a-8573-4deac898a3bc.png)
 
+
+![227594965-319fff3d-ec7c-4dd1-b06a-6c97975d8db4](https://user-images.githubusercontent.com/98719680/227734523-fe025773-85c6-469c-bbe0-94ca9602a039.png)
 
