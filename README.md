@@ -56,7 +56,7 @@ Still in work but the tracker will work even without the case.
 
 Live updates of case CAD [here](https://a360.co/42u5nMa).
 
-
+<img src="https://user-images.githubusercontent.com/98719680/227601854-59f1a4b9-e775-4e03-859e-9156e86dac59.png" alt="PCB" width="600" height="400" />
 
 
 If you want a case around the extension bmis check out whitneys artcturus cases and extensions: 
@@ -86,6 +86,8 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 
 
 ### Printing 
+![image](https://user-images.githubusercontent.com/98719680/227603217-12ec5b41-bc10-43a8-856b-a48b9d3375ae.png)
+
 
 ### Assembly 
 Steps 
@@ -128,5 +130,18 @@ Resources:
 
 
 
+
+
+
+
+
+
+
+### Community Builds
+I love seeing everyone building and using my pcbs, send in your photos if you want them featured!
+
+![image](https://user-images.githubusercontent.com/98719680/227594965-319fff3d-ec7c-4dd1-b06a-6c97975d8db4.png)
+
+![image](https://user-images.githubusercontent.com/98719680/227595175-0b3c58bc-bebe-40f4-a213-303ace0f15fe.png)
 
 
