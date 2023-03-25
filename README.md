@@ -93,9 +93,6 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 
 There are currently two diffrent shell options, one where the switch sits on top of the case vs soldred to the pcb on the side of the case
 
-Both were designed to be printed in this vertical orientation, with the side mounted switch version having supports only where it connects to the bed. 
-
-![227603217-12ec5b41-bc10-43a8-856b-a48b9d3375ae](https://user-images.githubusercontent.com/98719680/227734497-a1913c7c-93c8-40bc-b744-7558b1a9abad.png)
 
 ### Assembly 
 Steps 
