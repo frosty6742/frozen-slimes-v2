@@ -52,12 +52,16 @@ Tested Extensions:
 
 
 ### Case
-Still in work but the tracker will work even without the case.
-
-Live updates of case CAD [here](https://a360.co/42u5nMa).
-
+CAD [here](https://a360.co/42u5nMa).
 
 <img src="https://user-images.githubusercontent.com/98719680/227734265-6dffa7c5-9c2f-498a-8c37-c5e9e4d3c53d.png" alt="PCB" width="600" height="400" />
+
+There are two versions of the cases, one where the switch is soldered on the pcb and one where the switch is mounted in the top of the case. 
+
+To install the case remove the battery holder and slide it on from the battery side of the pcb to the imu side of the case, resolder on the battery holder. 
+
+
+<img src="https://user-images.githubusercontent.com/98719680/227752449-06bf5611-eeee-4c0e-a36b-8fae2ef69aae.jpg" alt="PCB" width="533" height="400" /> 
 
 
 If you want a case around the extension bmis check out whitneys artcturus cases and extensions: 
