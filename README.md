@@ -51,27 +51,12 @@ Tested Extensions:
 
 
 
-### Case
-CAD [here](https://a360.co/42u5nMa).
-
-<img src="https://user-images.githubusercontent.com/98719680/227734265-6dffa7c5-9c2f-498a-8c37-c5e9e4d3c53d.png" alt="PCB" width="600" height="400" />
-
-There are two versions of the cases, one where the switch is soldered on the pcb and one where the switch is mounted in the top of the case. 
-
-To install the case remove the battery holder and slide it on from the battery side of the pcb to the imu side of the case, resolder on the battery holder. 
-
-
-<img src="https://user-images.githubusercontent.com/98719680/227752449-06bf5611-eeee-4c0e-a36b-8fae2ef69aae.jpg" alt="PCB" width="533" height="400" /> 
-
-
-If you want a case around the extension bmis check out whitneys artcturus cases and extensions: 
-[Arcturus Cases](https://github.com/Lixulia/Arcturus)
 
 
 
 ### PCB 
 
-## Check above for tested and supported mpus
+#### Check above for tested and supported mpus
 
 This PCB lets every component be soldered on without any extra wires. This includes the diodes and resistor for battery sense and protected charging. 
 
@@ -91,11 +76,25 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 
 ![Screenshot 2023-02-10 085738](https://user-images.githubusercontent.com/98719680/227734494-7778ed71-9f84-4e93-b037-b169e9d53451.png)
 
+### Case
+CAD [here](https://a360.co/42u5nMa).
+
+<img src="https://user-images.githubusercontent.com/98719680/227734265-6dffa7c5-9c2f-498a-8c37-c5e9e4d3c53d.png" alt="PCB" width="600" height="400" />
+
+There are two versions of the cases, one where the switch is soldered on the pcb and one where the switch is mounted in the top of the case. 
+
+To install the case remove the battery holder and slide it on from the battery side of the pcb to the imu side of the case, resolder on the battery holder. 
+
+
+<img src="https://user-images.githubusercontent.com/98719680/227752449-06bf5611-eeee-4c0e-a36b-8fae2ef69aae.jpg" alt="PCB" width="533" height="400" /> 
+
+
+If you want a case around the extension bmis check out whitneys artcturus cases and extensions: 
+[Arcturus Cases](https://github.com/Lixulia/Arcturus)
 
 
 ### Printing 
 
-There are currently two diffrent shell options, one where the switch sits on top of the case vs soldred to the pcb on the side of the case
 
 
 ### Assembly 
