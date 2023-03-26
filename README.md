@@ -71,7 +71,7 @@ If you want a case around the extension bmis check out whitneys artcturus cases 
 
 ### PCB 
 
-##Check above for tested and supported mpus
+## Check above for tested and supported mpus
 
 This PCB lets every component be soldered on without any extra wires. This includes the diodes and resistor for battery sense and protected charging. 
 
