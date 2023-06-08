@@ -2,7 +2,7 @@
 
 ### Contact: artemis#8615
 
-## Check out the discord: https://discord.gg/vhHEsKjWGV
+## Check out the [discord](https://discord.gg/vhHEsKjWGV)
 
 This project will currently be using a Wemo D1 mini, mpu6050, bmi160 or bno085s, and a TP4056 charger. On my personal slimes I wanted to use a 18650 batteries due to the longer battery life and how easy they are to get. 
 
