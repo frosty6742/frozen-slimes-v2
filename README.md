@@ -128,7 +128,7 @@ BMI Specific Instructions:
 ![221204855-9bce6008-605c-4c25-83e0-810afc768479](https://user-images.githubusercontent.com/98719680/227734508-38e85ab7-38b9-43e7-b7cb-f7d4d2efbc29.png)
 
 
-- [ ] [Calibrate](https://github.com/SlimeVR/SlimeVR-Tracker-ESP/tree/beta/bmi-improvements#bmi160) bmis for first use
+- [ ] [Calibrate](https://github.com/SlimeVR/SlimeVR-Tracker-ESP?files=1#bmi160) bmis for first use
 
 
 ### Links
