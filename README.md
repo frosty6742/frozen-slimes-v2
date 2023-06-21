@@ -158,3 +158,5 @@ I love seeing everyone building and using my pcbs, send in your photos if you wa
 
 ![227594965-319fff3d-ec7c-4dd1-b06a-6c97975d8db4](https://user-images.githubusercontent.com/98719680/227734523-fe025773-85c6-469c-bbe0-94ca9602a039.png)
 
+![IMG_20230514_153835964](https://github.com/frosty6742/frozen-slimes-v2/assets/98719680/b7d99d02-0ce7-43bd-830b-89857c67099f)
+
