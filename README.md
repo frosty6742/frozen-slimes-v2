@@ -118,7 +118,11 @@ Steps
 
 ### Flashing firmware 
 
-
+Make sure to install the slime vr server with drivers first. 
+If the slime vr drivers arent working for you:
+- [ ] Uninstall the drivers from device manager 
+- [ ] Extract and install [this CH340 driver](https://www.wemos.cc/en/latest/ch340_driver.html)
+- [ ] Flash the trackers 
 
 
 
