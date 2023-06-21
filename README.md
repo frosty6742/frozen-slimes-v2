@@ -86,15 +86,23 @@ CAD [here](https://a360.co/42u5nMa).
 There are some varisous versions of the cases:
  <br />
 Electronics Cover - This is the part that slides over the top of the tracker to protect the electronics  
+
     - [ ] ECover.stl (This option has the switch soldered to the switch pads)  
+
     - [ ] ECoverTopSwitch.stl (This option has the switch mounted on the top of the tracker)  
+
  <br />
 Bottom Cover - (This is the part that hooks under the tracker to protect the connections)  
+
     - [ ] BottomCover.stl (This is the standard choice, use it if you are directly soldering the switch on)  
-    - [ ] BottomCoverThick.stl (This is a thicker version of the one above, its more rigid but the trackers are bigger)  
+
+    - [ ] BottomCoverThick.stl (This is a thicker version of the one above, its more rigid but the trackers are bigger) 
+ 
  <br />
     - [ ] BottomCoverTopSwitch.stl (Use this if you are mounitng the switch on top of the tracker, if you are using the ECoverTopSwitch.stl)  
+
     - [ ] BottomCoverTopSwitchThick.stl (This is a thicker version of the one above, its more rigid but the trackers are bigger)  
+
 
  <br />
 To install the top cover remove the battery holder and slide it on from the battery side of the pcb to the imu side of the case, resolder on the battery holder. 
