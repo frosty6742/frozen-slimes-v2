@@ -13,7 +13,7 @@ This will now also support mpu6050s, bmis160s, and BNO085s all on one pcb with t
 Tested:
 - mpu6050 = yes
 - bmi160 = yes
-- BNO085s = no
+- BNO085s = yes
 
 Tested Extensions:
 - mpu6050 = yes
@@ -33,23 +33,23 @@ Tested Extensions:
 - [Assembly](#Assembly)
 - [Flashing Firmware](#Flashing-firmware)
 - [Links](#Links)
-
+- [Community Builds](#Community-Builds)
 
 
 ### Components   
 - [TP4056](https://www.amazon.com/HiLetgo-Lithium-Battery-Charging-Protect/dp/B00LTQU2RK/ref=sr_1_3?crid=31BCDZYQGA5IU&keywords=TP4056&qid=1643591253&sprefix=tp4056%2Caps%2C124&sr=8-3)
 - [Wemos D1 Mini](https://www.amazon.com/Organizer-ESP8266-Internet-Development-Compatible/dp/B081PX9YFV/ref=sr_1_3?crid=2FMF3NVYGOSPK&keywords=wemos+d1+mini&qid=1643591309&sprefix=wemos+d1+mini%2Caps%2C136&sr=8-3)
-- [2in straps] Made these from elastic and velcro
+- [2in straps](https://www.amazon.com/gp/product/B0C42S3HQC/ref=ox_sc_act_title_1?smid=A29WFRG6NP7W74&psc=1)
 - [IMU docs](https://docs.slimevr.dev/diy/components-guide.html)
     - [MPU6050](https://www.amazon.com/MPU-6050-Accelerometer-Gyroscope-Converter-Compatible/dp/B08TH9NH55/ref=sr_1_6?crid=1W65V3QJ27XN&keywords=mpu+6050&qid=1643591376&sprefix=mpu+6050%2Caps%2C136&sr=8-6)  
-    - [BMI160]
+    - [BMI160](https://www.amazon.com/UMLIFE-GY-BMI160-Accelerometer-Gyroscope-Acceleration/dp/B09BQTP8SN/ref=sr_1_4?keywords=bmi160&qid=1687315590&sr=8-4)
 - [Switch](https://docs.slimevr.dev/diy/components-guide.htmll)
     - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
 - [Battery](https://docs.slimevr.dev/diy/components-guide.html)
     - [18650](https://www.amazon.com/s?k=18650&crid=2H65KICLJGU4U&sprefix=18650%2Caps%2C301&ref=nb_sb_noss_1)
 - [1n5817 Diode](https://www.amazon.com/100-Pieces-1N5817-Schottky-Rectifier/dp/B079KDQQPD/ref=sr_1_5?crid=1EPLYISD4R4G3&keywords=1n5817+Diode&qid=1659032765&sprefix=1n5817+diode%2Caps%2C130&sr=8-5)
 - [180k Resistor](https://www.amazon.com/EDGELEC-Resistor-Tolerance-Resistance-Optional/dp/B07HDFCNXB/ref=sr_1_3?crid=9MPFJ93KJT6X&keywords=180k+resistor&qid=1659032821&sprefix=180k+%2Caps%2C129&sr=8-3)
-- [18650 Battery Solderable Holder]
+- [18650 Battery Solderable Holder](https://www.amazon.com/dp/B09N76T4GL?ref=nb_sb_ss_w_as-reorder-t1_k5_1_6&amp=&crid=9IYBEM7L1PYO&amp=&sprefix=18650+)
 
 
 
