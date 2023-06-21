@@ -91,7 +91,8 @@ There are some varisous versions of the cases:
 - [ ] ECoverTopSwitch.stl (This option has the switch mounted on the top of the tracker)  
 
 <br />
-**Bottom Cover** - (This is the part that hooks under the tracker to protect the connections)  
+
+**Bottom Cover** - This is the part that hooks under the tracker to protect the connections
 - [ ] BottomCover.stl (This is the standard choice, use it if you are directly soldering the switch on)  
 - [ ] BottomCoverThick.stl (This is a thicker version of the one above, its more rigid but the trackers are bigger)
 <br />
