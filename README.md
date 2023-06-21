@@ -1,6 +1,6 @@
 # Frozen Slimes V2
 
-### Contact: artemis#8615
+### Contact: artemis8615
 
 ## Check out the [Discord](https://discord.gg/vhHEsKjWGV)
 
