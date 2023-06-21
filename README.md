@@ -81,14 +81,14 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 ### Case
 CAD [here](https://a360.co/42u5nMa).
 
-<img src="https://user-images.githubusercontent.com/98719680/227734265-6dffa7c5-9c2f-498a-8c37-c5e9e4d3c53d.png" alt="PCB" width="600" height="400" />
+<img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/Screenshot%202023-06-21%20091806.png" alt="PCB" width="600" height="400" />
 
 There are two versions of the cases, one where the switch is soldered on the pcb and one where the switch is mounted in the top of the case. 
 
 To install the case remove the battery holder and slide it on from the battery side of the pcb to the imu side of the case, resolder on the battery holder. 
 
 
-<img src="https://user-images.githubusercontent.com/98719680/227752449-06bf5611-eeee-4c0e-a36b-8fae2ef69aae.jpg" alt="PCB" width="533" height="400" /> 
+<img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/IMG_1064.jpg" alt="PCB" width="533" height="400" /> 
 
 
 If you want a case around the extension bmis check out whitneys artcturus cases and extensions: 
