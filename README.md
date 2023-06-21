@@ -96,6 +96,7 @@ There are some varisous versions of the cases:
 - [ ] BottomCover.stl (This is the standard choice, use it if you are directly soldering the switch on)  
 - [ ] BottomCoverThick.stl (This is a thicker version of the one above, its more rigid but the trackers are bigger)
 <br />
+
 - [ ] BottomCoverTopSwitch.stl (Use this if you are mounitng the switch on top of the tracker, if you are using the ECoverTopSwitch.stl)  
 - [ ] BottomCoverTopSwitchThick.stl (This is a thicker version of the one above, its more rigid but the trackers are bigger)  
 
