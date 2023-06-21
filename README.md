@@ -31,7 +31,7 @@ Tested Extensions:
 - [PCB](#PCB)
 - [Printing](#Printing)
 - [Assembly](#Assembly)
-- [Flashing Firmware](#Flashing firmware)
+- [Flashing Firmware](#Flashing-firmware)
 - [Links](#Links)
 
 
