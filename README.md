@@ -79,29 +79,25 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 ![Screenshot 2023-02-10 085738](https://user-images.githubusercontent.com/98719680/227734494-7778ed71-9f84-4e93-b037-b169e9d53451.png)
 
 ### Case
+### Case
 CAD [here](https://a360.co/42u5nMa).
 
 <img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/Screenshot%202023-06-21%20091806.png" alt="PCB" width="600" height="400" />
 
 There are some varisous versions of the cases:
 
-Electronics Cover - This is the part that slides over the top of the tracker to protect the electronics  
-
-    - [ ] ECover.stl (This option has the switch soldered to the switch pads)  
-
-    - [ ] ECoverTopSwitch.stl (This option has the switch mounted on the top of the tracker)  
+Electronics Cover - This is the part that slides over the top of the tracker to protect the electronics
+- [ ] ECover.stl (This option has the switch soldered to the switch pads)  
+- [ ] ECoverTopSwitch.stl (This option has the switch mounted on the top of the tracker)  
 
 
 Bottom Cover - (This is the part that hooks under the tracker to protect the connections)  
+- [ ] BottomCover.stl (This is the standard choice, use it if you are directly soldering the switch on)  
+- [ ] BottomCoverThick.stl (This is a thicker version of the one above, its more rigid but the trackers are bigger) 
+- [ ] BottomCoverTopSwitch.stl (Use this if you are mounitng the switch on top of the tracker, if you are using the ECoverTopSwitch.stl)  
+- [ ] BottomCoverTopSwitchThick.stl (This is a thicker version of the one above, its more rigid but the trackers are bigger)  
 
-    - [ ] BottomCover.stl (This is the standard choice, use it if you are directly soldering the switch on)  
-
-    - [ ] BottomCoverThick.stl (This is a thicker version of the one above, its more rigid but the trackers are bigger) 
- 
-
-    - [ ] BottomCoverTopSwitch.stl (Use this if you are mounitng the switch on top of the tracker, if you are using the ECoverTopSwitch.stl)  
-
-    - [ ] BottomCoverTopSwitchThick.stl (This is a thicker version of the one above, its more rigid but the trackers are bigger)  
+<br />
 
 
 
@@ -114,7 +110,7 @@ To install the top cover remove the battery holder and slide it on from the batt
 If you want a case around the extension bmis check out whitneys artcturus cases and extensions: 
 [Arcturus Cases](https://github.com/Lixulia/Arcturus)
  <br />
-
+ 
 ### Printing 
 
 
