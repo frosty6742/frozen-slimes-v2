@@ -79,7 +79,6 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 ![Screenshot 2023-02-10 085738](https://user-images.githubusercontent.com/98719680/227734494-7778ed71-9f84-4e93-b037-b169e9d53451.png)
 
 ### Case
-### Case
 CAD [here](https://a360.co/42u5nMa).
 
 <img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/Screenshot%202023-06-21%20091806.png" alt="PCB" width="600" height="400" />
