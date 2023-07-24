@@ -182,3 +182,6 @@ I love seeing everyone building and using my pcbs, send in your photos if you wa
 
 ![IMG_20230514_153835964](https://github.com/frosty6742/frozen-slimes-v2/assets/98719680/b7d99d02-0ce7-43bd-830b-89857c67099f)
 
+![image](https://github.com/frosty6742/frozen-slimes-v2/assets/98719680/22d0171f-0c6f-494a-b239-06caf8cf1ce0)
+
+
