@@ -115,6 +115,7 @@ If you want a case around the extension bmis check out whitneys artcturus cases 
  
 ### Printing 
 ![image](https://github.com/frosty6742/frozen-slimes-v2/assets/98719680/6f6b50f8-9b07-4e87-9ddf-3a423ee4f30b)
+
 Print in this orientation with NO SUPPORTS. 
 20% infill is good.
 
