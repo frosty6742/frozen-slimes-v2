@@ -18,7 +18,7 @@ Tested:
 Tested Extensions:
 - mpu6050 = yes
 - bmi160 = yes
-- BNO085s = no
+- BNO085s = yes
 
 
 
