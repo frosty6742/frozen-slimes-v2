@@ -4,7 +4,9 @@
 
 ## Check out the [Discord](https://discord.gg/vhHEsKjWGV)
 
-This project will currently be using a Wemo D1 mini, mpu6050, bmi160 or bno085s, and a TP4056 charger. On my personal slimes I wanted to use a 18650 batteries due to the longer battery life and how easy they are to get. 
+You can buy printed cases [here](https://original-dolphin-wq2ppp.mystrikingly.com/). Feel free do dm me if you want other cases printed. 
+
+This project uses a Wemo D1 mini, mpu6050, bmi160 or bno085s, and a TP4056 charger. On my personal slimes I wanted to use a 18650 batteries due to the longer battery life and how easy they are to get. 
 
 This is the second version of the case with a hotswappable 18650, strap slots build into the pcb and a much improved pcb design. 
 
@@ -65,9 +67,6 @@ This PCB lets every component be soldered on without any extra wires. This inclu
 To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerber file zip file and select quanity and color and order. It should autoselect all the other correct options when you upload the gerber file. 
 
 
-*if you want to buy pcb packs, fully assembled pcbs or even whole trackers dm me*
-
-
 
 <img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/20230212_062153031_iOS.png" alt="PCB" width="600" height="400" /> 
 
@@ -109,7 +108,7 @@ To install the top cover remove the battery holder and slide it on from the batt
 <img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/IMG_1064.jpg" alt="PCB" width="533" height="400" /> 
 
 
-If you want a case around the extension bmis check out whitneys artcturus cases and extensions: 
+If you want a case around the extension bmis check out Whitney's artcturus cases and extensions: 
 [Arcturus Cases](https://github.com/Lixulia/Arcturus)
  <br />
  
@@ -148,7 +147,7 @@ If the slime vr drivers arent working for you:
 
 
 BMI Specific Instructions:
-- [ ] Use this online [firmware flasher](https://slimevr-firmware.bscotch.ca/) with this fork "0forks/v3dev".
+- [ ] Use this online [firmware flasher](https://slimevr-firmware.bscotch.ca/) with the latest version of main.
 
 - [ ] Orientation: 
 
