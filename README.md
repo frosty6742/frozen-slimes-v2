@@ -68,7 +68,7 @@ To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerb
 
 
 
-<img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/20230212_062153031_iOS.png" alt="PCB" width="600" height="400" /> 
+<img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/solder.png" alt="PCB" width="600" height="400" /> 
 
 <img src="https://github.com/frosty6742/frozen-slimes-v2/blob/main/Pictures/20230212_062336631_iOS.png" alt="PCB" width="400" height="500" /> 
 
