@@ -128,7 +128,7 @@ Steps
 - [ ] Solder pins from wemo D1 to wemo, set through holes on PCB and solder the pins on the backside of the PCB
 
 - [ ] Add 180K resitor and diodes in the same orientation as the picture 
-- [ ] Bridge correct pads to chose imu (no bridge for mpu6050)
+- [ ] Bridge correct pads to chose imu (for a BNO solder both bridges under its label, for BMI the one bridge under its label, for the mpu6050 no bridges) 
 - [ ] Solder on battery holder
 - [ ] Solder on switch
 
