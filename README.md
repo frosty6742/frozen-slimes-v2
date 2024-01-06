@@ -48,7 +48,7 @@ Tested Extensions:
     - [MPU6050](https://www.amazon.com/MPU-6050-Accelerometer-Gyroscope-Converter-Compatible/dp/B08TH9NH55/ref=sr_1_6?crid=1W65V3QJ27XN&keywords=mpu+6050&qid=1643591376&sprefix=mpu+6050%2Caps%2C136&sr=8-6)  
     - [BMI160](https://www.amazon.com/UMLIFE-GY-BMI160-Accelerometer-Gyroscope-Acceleration/dp/B09BQTP8SN/ref=sr_1_4?keywords=bmi160&qid=1687315590&sr=8-4)
 - [Switch](https://docs.slimevr.dev/diy/components-guide.htmll)
-    - [SS22F32](\https://www.amazon.com/uxcell-Vertical-Switch-Terminals-Latching/dp/B07GSGJ6DM/ref=zg_bs_g_18945323011_sccl_18/135-0130682-5289376?psc=1)
+    - [SS22F32](https://www.amazon.com/uxcell-Vertical-Switch-Terminals-Latching/dp/B07GSGJ6DM/ref=zg_bs_g_18945323011_sccl_18/135-0130682-5289376?psc=1)
 - [Battery](https://docs.slimevr.dev/diy/components-guide.html)
     - [18650](https://www.amazon.com/s?k=18650&crid=2H65KICLJGU4U&sprefix=18650%2Caps%2C301&ref=nb_sb_noss_1)
 - [1n5817 Diode](https://www.amazon.com/100-Pieces-1N5817-Schottky-Rectifier/dp/B079KDQQPD/ref=sr_1_5?crid=1EPLYISD4R4G3&keywords=1n5817+Diode&qid=1659032765&sprefix=1n5817+diode%2Caps%2C130&sr=8-5)
