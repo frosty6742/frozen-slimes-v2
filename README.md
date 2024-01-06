@@ -22,7 +22,7 @@ Tested Extensions:
 - bmi160 = yes
 - BNO085s = yes
 
-[Build Tourtial](https://youtu.be/H9HIH2EkDvM?si=KdWcgcjPbuMS_1uO)
+[Build Tutorial](https://youtu.be/H9HIH2EkDvM?si=KdWcgcjPbuMS_1uO)
 
 
 
