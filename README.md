@@ -2,7 +2,7 @@
 
 ### Contact: artemis8615
 
-## Check out the [Discord](https://discord.gg/vhHEsKjWGV)
+### Check out the [Discord](https://discord.gg/vhHEsKjWGV)
 
 You can buy printed cases [here](https://original-dolphin-wq2ppp.mystrikingly.com/). Feel free do dm me if you want other cases printed. 
 
@@ -21,6 +21,8 @@ Tested Extensions:
 - mpu6050 = yes
 - bmi160 = yes
 - BNO085s = yes
+
+[Build Tourtial](https://youtu.be/H9HIH2EkDvM?si=KdWcgcjPbuMS_1uO)
 
 
 
@@ -46,7 +48,7 @@ Tested Extensions:
     - [MPU6050](https://www.amazon.com/MPU-6050-Accelerometer-Gyroscope-Converter-Compatible/dp/B08TH9NH55/ref=sr_1_6?crid=1W65V3QJ27XN&keywords=mpu+6050&qid=1643591376&sprefix=mpu+6050%2Caps%2C136&sr=8-6)  
     - [BMI160](https://www.amazon.com/UMLIFE-GY-BMI160-Accelerometer-Gyroscope-Acceleration/dp/B09BQTP8SN/ref=sr_1_4?keywords=bmi160&qid=1687315590&sr=8-4)
 - [Switch](https://docs.slimevr.dev/diy/components-guide.htmll)
-    - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
+    - [SS22F32](\https://www.amazon.com/uxcell-Vertical-Switch-Terminals-Latching/dp/B07GSGJ6DM/ref=zg_bs_g_18945323011_sccl_18/135-0130682-5289376?psc=1)
 - [Battery](https://docs.slimevr.dev/diy/components-guide.html)
     - [18650](https://www.amazon.com/s?k=18650&crid=2H65KICLJGU4U&sprefix=18650%2Caps%2C301&ref=nb_sb_noss_1)
 - [1n5817 Diode](https://www.amazon.com/100-Pieces-1N5817-Schottky-Rectifier/dp/B079KDQQPD/ref=sr_1_5?crid=1EPLYISD4R4G3&keywords=1n5817+Diode&qid=1659032765&sprefix=1n5817+diode%2Caps%2C130&sr=8-5)
@@ -185,5 +187,6 @@ I love seeing everyone building and using my pcbs, send in your photos if you wa
 ![IMG_20230514_153835964](https://github.com/frosty6742/frozen-slimes-v2/assets/98719680/b7d99d02-0ce7-43bd-830b-89857c67099f)
 
 ![image](https://github.com/frosty6742/frozen-slimes-v2/assets/98719680/22d0171f-0c6f-494a-b239-06caf8cf1ce0)
+
 
 
