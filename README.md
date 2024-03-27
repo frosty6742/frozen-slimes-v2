@@ -92,16 +92,22 @@ Steps
 ### Flashing firmware 
 Make sure to install the slime vr server with drivers first. 
 
+
+
 - [ ] Use this online [firmware flasher](https://slimevr-firmware.bscotch.ca/) with the latest version of main and wemosd1mini.
 
 Make sure to chose the correct imu and orientation. 
+
+
 
 ![image](https://github.com/frosty6742/frozen-slimes-v2/assets/98719680/03e94f37-ca70-42e5-840b-5fe6d14ca439)
 
 
 
 BNO/MPU Instructions
--[ ] Orientation:
+- [ ] Orientation:
+
+
 ![rotation](https://github.com/frosty6742/frozen-slimes-v2/assets/98719680/3da296cd-8ce4-4d37-a416-2c509f2011a5)
 
 
@@ -109,8 +115,12 @@ BNO/MPU Instructions
 
 BMI Specific Instructions:
 
-- [ ] Orientation: 
+- [ ] Orientation:
+
+      
 ![221204855-9bce6008-605c-4c25-83e0-810afc768479](https://user-images.githubusercontent.com/98719680/227734508-38e85ab7-38b9-43e7-b7cb-f7d4d2efbc29.png)
+
+
 - [ ] [Calibrate](https://github.com/SlimeVR/SlimeVR-Tracker-ESP?files=1#bmi160) bmis for first use
 
 If the slime vr drivers arent working for you:
