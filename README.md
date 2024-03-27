@@ -1,8 +1,8 @@
 # Frozen Slimes V2
 
-### Contact: artemis8615
+Contact: artemis8615
 
-### Check out the [Discord](https://discord.gg/vhHEsKjWGV)
+Check out the [Discord](https://discord.gg/vhHEsKjWGV)
 
 You can buy printed cases [here](https://original-dolphin-wq2ppp.mystrikingly.com/). Feel free do dm me if you want other cases printed. 
 
@@ -17,14 +17,7 @@ Tested:
 - bmi160 = yes
 - BNO085s = yes
 
-Tested Extensions:
-- mpu6050 = yes
-- bmi160 = yes
-- BNO085s = yes
-
 [Build Tutorial](https://youtu.be/H9HIH2EkDvM?si=KdWcgcjPbuMS_1uO)
-
-
 
 [Offical Component Guide](https://docs.slimevr.dev/diy/components-guide.html)
 
@@ -32,7 +25,7 @@ Tested Extensions:
 ## Index
 - [Components](#Components)
 - [PCB](#PCB)
-- [Case](#Case)
+- [Cases](#Cases)
 - [Assembly](#Assembly)
 - [Flashing Firmware](#Flashing-firmware)
 - [Links](#Links)
@@ -61,8 +54,6 @@ Tested Extensions:
 
 ### PCB 
 
-#### Check above for tested and supported mpus
-
 This PCB lets every component be soldered on without any extra wires. This includes the diodes and resistor for battery sense and protected charging. 
 
 To order PCBS go to a website like https://cart.jlcpcb.com/quote upload the gerber file zip file and select quanity and color and order. It should autoselect all the other correct options when you upload the gerber file. 
@@ -85,8 +76,6 @@ Read the cases documentation in [Case STLs](https://github.com/frosty6742/frozen
 
 ### Assembly 
 Steps 
-- [ ] Print main tracker case
-
 - [ ] Solder charge board to PCB
 - [ ] Solder mpu to PCB 
 - [ ] Solder pins from wemo D1 to wemo, set through holes on PCB and solder the pins on the backside of the PCB
@@ -101,24 +90,33 @@ Steps
 - [ ] Feel free to reach out to me with any questions 
 
 ### Flashing firmware 
-
 Make sure to install the slime vr server with drivers first. 
-If the slime vr drivers arent working for you:
-- [ ] Uninstall the drivers from device manager 
-- [ ] Extract and install [this CH340 driver](https://www.wemos.cc/en/latest/ch340_driver.html)
-- [ ] Flash the trackers 
+
+- [ ] Use this online [firmware flasher](https://slimevr-firmware.bscotch.ca/) with the latest version of main and wemosd1mini.
+
+Make sure to chose the correct imu and orientation. 
+
+![image](https://github.com/frosty6742/frozen-slimes-v2/assets/98719680/03e94f37-ca70-42e5-840b-5fe6d14ca439)
+
+
+
+BNO/MPU Instructions
+-[ ] Orientation:
+![rotation](https://github.com/frosty6742/frozen-slimes-v2/assets/98719680/3da296cd-8ce4-4d37-a416-2c509f2011a5)
+
 
 
 
 BMI Specific Instructions:
-- [ ] Use this online [firmware flasher](https://slimevr-firmware.bscotch.ca/) with the latest version of main.
 
 - [ ] Orientation: 
-
 ![221204855-9bce6008-605c-4c25-83e0-810afc768479](https://user-images.githubusercontent.com/98719680/227734508-38e85ab7-38b9-43e7-b7cb-f7d4d2efbc29.png)
-
-
 - [ ] [Calibrate](https://github.com/SlimeVR/SlimeVR-Tracker-ESP?files=1#bmi160) bmis for first use
+
+If the slime vr drivers arent working for you:
+- [ ] Uninstall the drivers from device manager 
+- [ ] Extract and install [this CH340 driver](https://www.wemos.cc/en/latest/ch340_driver.html)
+- [ ] Flash the trackers
 
 
 ### Links
