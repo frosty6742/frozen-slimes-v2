@@ -4,8 +4,6 @@ Contact: artemis8615
 
 Check out the [Discord](https://discord.gg/vhHEsKjWGV)
 
-You can buy printed cases [here](https://original-dolphin-wq2ppp.mystrikingly.com/). Feel free to message me if you want other cases printed. 
-
 This project uses a Wemo D1 mini, mpu6050, bmi160 or bno085s, and a TP4056 charger. On my personal slimes I wanted to use a 18650 batteries due to the longer battery life and how easy they are to get. 
 
 This is the second version of the case with a hotswappable 18650, strap slots build into the pcb and a much improved pcb design. 
